@@ -21,7 +21,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Additional material submitted in the repo
-1) a tidy data called tidy_melt_dataset.txt, providing tidy data after the application of the r script
+1) a tidy data called tidy_melt_dataset.txt, providing tidy data after the application of the r script (here provided as a rar compressed file due to size of the file)
 2) a summary data set called summary_melt_datset.txt providing mean calculation for each group of activity and variable for each subject
 3) a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data called CodeBook.md. 
 It also include this README.md in the repo with your scripts. 
